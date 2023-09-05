@@ -14,6 +14,6 @@ Please refer to the LICENSE in the repo.
 
 # Links
 
-[Deployed Website](https://connorg45.github.io/weather-dashboard/)
+[Deployed Website](https://connorg45.github.io/code-quiz/)
 
 [Github Repo](https://github.com/connorg45/code-quiz)
